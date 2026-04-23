@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.jpg" alt="Cesar Banner" width="100%">
+</p>
+
 # Hey, I'm Cesar
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/cesar-manuel-hernandez-dorantes)
