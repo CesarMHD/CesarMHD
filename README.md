@@ -2,7 +2,7 @@
   <img src="assets/banner.jpg" alt="Cesar Banner" width="100%">
 </p>
 
-# Hey, I'm Cesar
+# Hey, I'm Cesar 👋
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/cesar-manuel-hernandez-dorantes)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:cesardorantes12.cmhd@gmail.com)
@@ -10,8 +10,15 @@
 
 ### Systems Engineer & Full Stack Developer
 
+---
+
+#### 🇺🇸 English
 Building scalable enterprise solutions. I specialize in turning complex business requirements into clean, functional, and creative code.
 
+#### 🇲🇽 Español
+Construyendo soluciones empresariales escalables. Me especializo en transformar requerimientos de negocio complejos en código limpio, funcional y creativo.
+
+---
 
 ### 🛠️ Technical Stack
 
@@ -19,6 +26,8 @@ Building scalable enterprise solutions. I specialize in turning complex business
 - **Frontend:** ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 - **Mobile:** ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 - **Database & DevOps:** ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CesarMHD&theme=elegant&border_radius=20)](https://git.io/streak-stats)
 
